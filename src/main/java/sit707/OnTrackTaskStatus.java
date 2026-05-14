@@ -13,7 +13,7 @@ public class OnTrackTaskStatus {
         }
 
         if (studentId.equals("224726304") && taskId.equals("7.1P")) {
-            return "Submitted";
+            return "Wrong Status";
         }
 
         if (studentId.equals("224726304") && taskId.equals("8.1P")) {
